@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599318469260,
+  "timestamp": 1599318667024,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.98a11187b6d2e186afaf.js",
+        "/main.0c84d3a4f899aa1b30b3.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
@@ -60,8 +60,8 @@
     "/assets/img/half-circle.png": "bc583ffa2242c44be2b86db2623f23d8ac6849b5",
     "/assets/user-regular.svg": "b3fb62f401c20be8aac59e9195ded50721c8285b",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "9666811cc1f2ac79f800b8b4544c883e288a39c7",
-    "/main.98a11187b6d2e186afaf.js": "3b1247b207589b15f8a6f8c37fd3ee8c53a7902f",
+    "/index.html": "b5a60462425161d1bdf3b82c108ae37777df9c24",
+    "/main.0c84d3a4f899aa1b30b3.js": "b3b913370fd0c4448d93cc2d547c7241de5badce",
     "/manifest.webmanifest": "906cee8bde5cd30bb9c7bdb11d6bf96458d0701f",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
